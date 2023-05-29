@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kazi1</string>
+    
+    <string-array name="gander">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
